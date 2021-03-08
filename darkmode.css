@@ -32,6 +32,7 @@ body {
   body.dark-theme .panel {
     color: #CAD5E2;
     background: #242B2E;
+    caret-color: #ff6666;
   }
 
 
